@@ -1,0 +1,57 @@
+section#contact {
+    background-color: #212529;
+}
+
+#contactForm {
+    width: 75%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+section#contact .section-heading {
+    color: #fff;
+}
+
+section#contact .form-group {
+    margin-bottom: 18px;
+}
+
+section#contact .form-group input,
+section#contact .form-group textarea {
+    width: 100%;
+    padding: 20px;
+    font-size: 16px;
+}
+
+section#contact .form-group input.form-control {
+    height: auto;
+}
+
+section#contact .form-group textarea.form-control {
+    height: 135px;
+}
+
+section#contact .form-control:focus {
+    border-color: #fed136;
+    box-shadow: none;
+}
+
+section#contact ::-webkit-input-placeholder {
+    font-weight: 700;
+    color: #ced4da;
+}
+
+section#contact :-moz-placeholder {
+    font-weight: 700;
+    color: #ced4da;
+}
+
+section#contact ::-moz-placeholder {
+    font-weight: 700;
+    color: #ced4da;
+}
+
+section#contact :-ms-input-placeholder {
+    font-weight: 700;
+    color: #ced4da;
+}
